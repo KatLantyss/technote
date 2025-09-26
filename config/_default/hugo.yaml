@@ -1,0 +1,12 @@
+baseURL: "https://katlantyss.github.io/technote/"
+title: TechNote™
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+mainsections: ["post"]
+
+
+pygmentsUseClasses: true
