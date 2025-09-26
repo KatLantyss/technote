@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://192.168.0.100:1313/technote/sitemap.xml
+Sitemap: https://katlantyss.github.io/technote/sitemap.xml
